@@ -1,6 +1,6 @@
-# Emmanuel Eye Tracker Dataset and Code
+# Tobii Eye Tracker Dataset and Code
 
-This repository contains code for analyzing the Emmanuel Eye Tracker dataset. The dataset can be downloaded from the [website](https://www.nature.com/articles/s41597-022-01862-w).
+This repository contains code for analyzing the Tobii Eye Tracker dataset. The dataset can be downloaded from the [website](https://www.nature.com/articles/s41597-022-01862-w).
 
 ## Dataset
 
